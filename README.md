@@ -81,42 +81,6 @@ This allows developers to quickly populate the database with:
 
 ---
 
-### Example Dummy Data Inserted
-
-#### Flight Data
-
-* Economy, Business, Premium classes
-* Base fares adjusted dynamically
-
-#### Hotel Data
-
-* Budget, Standard, Luxury hotels
-* City-based pricing multipliers
-
-#### Activity Data
-
-* Sightseeing tours
-* Adventure activities
-* Cultural experiences
-
-#### Pricing Rule Data
-
-* Seasonal surcharges and discounts
-* Weekend pricing rules
-* Loyalty-based discount tiers
-
----
-
-## Cancellation Policy Logic
-
-| Budget Tier | Refund Window | Penalty |
-| ----------- | ------------- | ------- |
-| Low         | Short         | High    |
-| Medium      | Moderate      | Medium  |
-| High        | Flexible      | Low     |
-
----
-
 ### Installation & Setup
 
 1. **Clone the repository**
